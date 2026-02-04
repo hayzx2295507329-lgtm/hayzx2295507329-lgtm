@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi there ✨
+👋 About Me
+I'm a passionate developer focused on building clean, efficient, and user-centric solutions.
+When I'm not coding, you can find me exploring new tech trends, contributing to open source, or sharing my learnings through articles.
+🛠️ Tech Stack
+Languages: Python, JavaScript
+Frameworks: Node.js
+Tools: Git, Docker
 
-<!--
-**hayzx2295507329-lgtm/hayzx2295507329-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Working On
+Building a scalable backend service for a SaaS product using FastAPI and PostgreSQL.
+Contributing to an open-source project that simplifies Docker container management.
+📚 Currently Learning
+Advanced cloud architecture patterns with AWS.
+Rust programming for high-performance systems.
+🤝 Looking to Collaborate On
+Open-source projects related to developer tools or cloud infrastructure.
+Projects that focus on accessibility and inclusive design.
+🆘 Looking for Help With
+Optimizing the performance of a React application with complex state management.
+Exploring best practices for securing APIs in a microservices architecture.
+💬 Ask Me About
+Full-stack development workflows.
+Transitioning from monoliths to microservices.
+Balancing technical debt with rapid feature delivery.
